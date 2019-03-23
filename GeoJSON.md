@@ -1,6 +1,10 @@
 # GeoJSON Resources
 
 
+## General
+
+Eric Celeste Geo Data: [Link](http://eric.clst.org/tech/usgeojson/)
+
 ## Georgia
 
 Atlanta: [ArcGIS](https://dcp-coaplangis.opendata.arcgis.com/)<br>
