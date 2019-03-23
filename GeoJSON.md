@@ -1,4 +1,4 @@
-# GeoJSON APIs
+# GeoJSON Resources
 
 
 ## Georgia
