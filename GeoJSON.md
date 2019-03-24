@@ -9,6 +9,7 @@ US Atlas Topo JSON: [Link](https://github.com/topojson/us-atlas)<br>
 D3 Mapping Approach: [Link](https://d3indepth.com/geographic/)<br>
 Intro to Python GIS: [Link](https://automating-gis-processes.github.io/CSC/index.html)<br>
 Altair Viz Issues: [Link](https://github.com/altair-viz/altair/issues/1357)
+Creating Choropleth Maps in Altair: [Link](https://medium.com/dataexplorations/creating-choropleth-maps-in-altair-eeb7085779a1)
 
 ## Georgia
 
