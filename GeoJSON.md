@@ -8,9 +8,9 @@ My GeoData Converter: [Link](https://mygeodata.cloud/converter/)<br>
 US Atlas Topo JSON: [Link](https://github.com/topojson/us-atlas)<br>
 D3 Mapping Approach: [Link](https://d3indepth.com/geographic/)<br>
 Intro to Python GIS: [Link](https://automating-gis-processes.github.io/CSC/index.html)<br>
-Altair Viz Issues: [Link](https://github.com/altair-viz/altair/issues/1357)
-Creating Choropleth Maps in Altair: [Link](https://medium.com/dataexplorations/creating-choropleth-maps-in-altair-eeb7085779a1)
-Choropleth Maps in Altair (How to Remove Features): [Link](https://www.chegg.com/homework-help/questions-and-answers/using-python-altair-library-data-https-uploadfilesio-s6b0q-csv-format-2-altair-create-note-q31838944)
+Altair Viz Issues: [Link](https://github.com/altair-viz/altair/issues/1357)<br>
+Creating Choropleth Maps in Altair: [Link](https://medium.com/dataexplorations/creating-choropleth-maps-in-altair-eeb7085779a1)<br>
+Choropleth Maps in Altair (How to Remove Features): [Link](https://www.chegg.com/homework-help/questions-and-answers/using-python-altair-library-data-https-uploadfilesio-s6b0q-csv-format-2-altair-create-note-q31838944)<br>
 
 ## Georgia
 
