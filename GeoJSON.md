@@ -20,6 +20,11 @@ Atlanta: [Neighborhoods](https://dcp-coaplangis.opendata.arcgis.com/datasets/nei
 <br>
 <br>
 
+## Toronto
+
+Neighborhoods: [Link](https://github.com/jasonicarter/toronto-geojson)
+Crime Rates: [Link](https://data.torontopolice.on.ca/datasets/af500b5abb7240399853b35a2362d0c0_0/data?geometry=-80.465%2C43.542%2C-78.291%2C43.89)
+
 ## Washington DC
 
 ANC / Districts: [Link](https://hub.arcgis.com/items/bfe6977cfd574c2b894cd67cf6a787c3)
