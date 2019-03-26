@@ -14,3 +14,7 @@
 
 * [GeoJSON and Choropleth](https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/GeoJSON_and_choropleth.ipynb)
 * [Folium Gallery and Code](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)
+
+## Miscellany
+
+* Africa Map in Altair [Link](https://stackoverflow.com/questions/51969483/is-any-simpler-way-to-plot-geopandas-data-in-altair-chart)
