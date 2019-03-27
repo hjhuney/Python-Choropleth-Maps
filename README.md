@@ -1,4 +1,4 @@
-# Altair-Visualization
+# Geographic Mapping in Python
 
 ## Resources
 
@@ -14,6 +14,10 @@
 
 * [GeoJSON and Choropleth](https://nbviewer.jupyter.org/github/python-visualization/folium/blob/master/examples/GeoJSON_and_choropleth.ipynb)
 * [Folium Gallery and Code](https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/)
+
+## Plotly Express
+
+* [County Maps](https://plot.ly/python/county-choropleth/)
 
 ## Miscellany
 
