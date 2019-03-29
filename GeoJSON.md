@@ -22,7 +22,7 @@ Atlanta: [Neighborhoods](https://dcp-coaplangis.opendata.arcgis.com/datasets/nei
 
 ## Toronto
 
-Neighborhoods: [Link](https://github.com/jasonicarter/toronto-geojson)
+Neighborhoods: [Link](https://github.com/jasonicarter/toronto-geojson)<br>
 Crime Rates: [Link](https://data.torontopolice.on.ca/datasets/af500b5abb7240399853b35a2362d0c0_0/data?geometry=-80.465%2C43.542%2C-78.291%2C43.89)
 
 ## Washington DC
