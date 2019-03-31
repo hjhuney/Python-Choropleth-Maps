@@ -21,11 +21,11 @@
 
 ## Miscellany
 
-* Africa Map in Altair [Link](https://stackoverflow.com/questions/51969483/is-any-simpler-way-to-plot-geopandas-data-in-altair-chart)
+* [Africa Map in Altair](https://stackoverflow.com/questions/51969483/is-any-simpler-way-to-plot-geopandas-data-in-altair-chart)
 
 # Geographic Mapping in JavaScript
 
 ## D3
 
-* Newbie to D3 Expert: [Link](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/newbie-d3-js-expert-complete-path-create-interactive-visualization-d3-js/)
-* D3 Resources: [Link](https://github.com/d3/d3/wiki/Tutorials)
+* [Newbie to D3 Expert](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/newbie-d3-js-expert-complete-path-create-interactive-visualization-d3-js/)
+* [D3 Resources](https://github.com/d3/d3/wiki/Tutorials)
