@@ -14,6 +14,13 @@ Creating Choropleth Maps in Altair: [Link](https://medium.com/dataexplorations/c
 Choropleth Maps in Altair (How to Remove Features): [Link](https://www.chegg.com/homework-help/questions-and-answers/using-python-altair-library-data-https-uploadfilesio-s6b0q-csv-format-2-altair-create-note-q31838944)<br>
 Creating Choropleth Maps in Altair: [Link](https://www.districtdatalabs.com/altair-choropleth-viz)<br>
 
+## Metropolitan Statistical Areas
+
+## Nielsen DMAs
+
+Finding Zip Codes in Nielsen DMAs: [Link](http://pilotskid.com/us-zip-codes-nielsen-dma/)
+Nielsen DMA Json: [Link](https://github.com/simzou/nielsen-dma/blob/master/nielsentopo.json)
+
 ## Georgia
 
 Atlanta: [ArcGIS](https://dcp-coaplangis.opendata.arcgis.com/)<br>
