@@ -21,6 +21,10 @@ Creating Choropleth Maps in Altair: [Link](https://www.districtdatalabs.com/alta
 Finding Zip Codes in Nielsen DMAs: [Link](http://pilotskid.com/us-zip-codes-nielsen-dma/)<br>
 Nielsen DMA JSON: [Link](https://github.com/simzou/nielsen-dma/blob/master/nielsentopo.json)
 
+## Zip Codes
+
+US Zip Code (PyPi): [Link](https://pypi.org/project/uszipcode/)
+
 ## Georgia
 
 Atlanta: [ArcGIS](https://dcp-coaplangis.opendata.arcgis.com/)<br>
