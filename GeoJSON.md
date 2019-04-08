@@ -18,8 +18,8 @@ Creating Choropleth Maps in Altair: [Link](https://www.districtdatalabs.com/alta
 
 ## Nielsen DMAs
 
-Finding Zip Codes in Nielsen DMAs: [Link](http://pilotskid.com/us-zip-codes-nielsen-dma/)
-Nielsen DMA Json: [Link](https://github.com/simzou/nielsen-dma/blob/master/nielsentopo.json)
+Finding Zip Codes in Nielsen DMAs: [Link](http://pilotskid.com/us-zip-codes-nielsen-dma/)<br>
+Nielsen DMA JSON: [Link](https://github.com/simzou/nielsen-dma/blob/master/nielsentopo.json)
 
 ## Georgia
 
